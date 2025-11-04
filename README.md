@@ -44,6 +44,9 @@ WHERE A > 15
 
 ```
 
+*italics*
+**bold**
+
 
 
 
