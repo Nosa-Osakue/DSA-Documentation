@@ -19,7 +19,37 @@ The primary source of data used here is Data Sale.csv and this is an open source
      - For Data Cleaning
        1. Dta Manipulation
        2. Data Munching
+          
 - SQL Server (for Querying and Analysis)
 - Power BI (for creating a report)
 - Ms Power Point (for presentation)
-- 
+
+### Data Cleaning and Preparation
+
+In the initial phase of the Data Cleaning and Preparations,
+
+### Exploratory Data Analysis
+EDA 
+
+- What is the overall sales trend
+- Which 
+
+### Data Analysis
+
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during analysis
+
+``` SQL
+SELECT A, B, C
+WHERE A > 15
+
+```
+
+
+
+
+
+
+
+
+
+
