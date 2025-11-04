@@ -14,7 +14,7 @@ This Data Analysis project aims to generate insignt into the sales performance o
 The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other repository site.
 
 ### Tools Used
-- Ms Excel for Data Cleaning [Download Here](https.//www.microsoft.com)
+- Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
      - For Data Collection
      - For Data Cleaning
        1. Dta Manipulation
